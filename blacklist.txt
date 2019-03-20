@@ -2,4 +2,4 @@
 456;Piraty
 789;Piraty
 012;Piraty
-%%_USER_%%;Anti-bug_abuser
+%%__USER__%%;Anti-bug_abuser
